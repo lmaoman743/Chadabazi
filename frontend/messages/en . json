@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to Chadabazi Reporting Platform",
+  "login": "Login",
+  "register": "Register",
+  "submit_report": "Submit Report",
+  "upload_evidence": "Upload Evidence",
+  "case_status": "Case Status",
+  "logout": "Logout"
+}
